@@ -81,24 +81,6 @@
 | Domino’s Dashboard | Automated sales dashboards | Power BI |
 | Delivery Market Analysis | Excel operations analytics | Excel |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kalpeshattarde&show_icons=true&theme=blue-green&hide_border=true&cache_seconds=1800"/>
-<img src="https://streak-stats.demolab.com/?user=kalpeshattarde&theme=blue-green&hide_border=true"/>
-</p>
-
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kalpeshattarde/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 
 ---
 
