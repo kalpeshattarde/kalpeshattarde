@@ -30,7 +30,7 @@
 💡 Turning raw data into business impact  
 
 <div align="center">
-<a href="mailto:officialkalpeshattarde@gmail.com">
+<a href="mailto:mail.kalpeshattarde@gmail.com">
 <img src="https://img.shields.io/badge/HIRE%20ME-00fff7?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 </div>
