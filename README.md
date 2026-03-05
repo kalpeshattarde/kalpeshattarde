@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kalpeshattarde&label=Profile%20Views&color=00fff7&style=flat"/>
 
-### Data Analyst & Data Science Intern | Turning Data into Business Impact 🚀
+### Data Analyst | MlOps Enthusiast | Turning Data into Business Impact 🚀
 
 <a href="https://linkedin.com/in/kalpeshattarde">
 <img src="https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=black"/>
