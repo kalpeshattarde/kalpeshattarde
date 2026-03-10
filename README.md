@@ -2,17 +2,17 @@
 
 <div align="center">
 
-# Hi, I'm Kalpesh Attarde 👋
+# Hi, I'm Kalpesh Attarde 👋  
+
+### Data Analyst | ML & BI Specialist | Turning Data into Measurable Business Impact 🚀  
 
 <img src="https://komarev.com/ghpvc/?username=kalpeshattarde&label=Profile%20Views&color=00fff7&style=flat"/>
-
-### Data Analyst | MlOps Enthusiast | Turning Data into Business Impact 🚀
 
 <a href="https://linkedin.com/in/kalpeshattarde">
 <img src="https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:officialkalpeshattarde@gmail.com">
+<a href="mailto:kalpeshattarde2468@gmail.com">
 <img src="https://img.shields.io/badge/Email-00fff7?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
@@ -28,15 +28,17 @@
 
 📍 Mumbai, India  
 
-📊 Data Analyst Intern @ **Graphura India Pvt Ltd**  
+📊 Data Analyst & Data Science Intern @ **Graphura India Pvt Ltd**  
 
-🚀 BI, ETL, Predictive Analytics & ML Enthusiast  
+💡 I specialize in transforming raw datasets into actionable insights using SQL, Python, and Power BI.  
 
-💡 Turning raw data into business impact
+🚀 Built ML models with up to **88% accuracy**, improved engagement rates by **44%**, and automated reporting systems reducing manual effort by **40–64%**.  
+
+🎯 Passionate about Business Intelligence, Predictive Modeling, and Data-Driven Decision Making.
 
 <div align="center">
 
-<a href="mailto:mail.kalpeshattarde@gmail.com">
+<a href="mailto:kalpeshattarde2468@gmail.com">
 <img src="https://img.shields.io/badge/HIRE%20ME-00fff7?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
@@ -46,59 +48,105 @@
 
 # 🛠️ Tech Stack
 
-### 📈 Data & BI
+## 📊 Data Analytics & BI
+- Power BI  
+- Tableau  
+- Microsoft Excel  
+- Google Sheets  
 
-<p align="center">
+## 🗄️ Databases & ETL
+- SQL  
+- MySQL  
+- PostgreSQL  
+- Power Query  
+- Data Cleaning & Transformation  
 
-<img src="https://img.shields.io/badge/PowerBI-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GoogleSheets-00fff7?style=for-the-badge"/>
+## 🧠 Machine Learning & Python
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- XGBoost  
 
-</p>
-
-### 🗄️ Database & ETL
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MySQL-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerQuery-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-00fff7?style=for-the-badge"/>
-
-</p>
-
-### 🧠 ML & Python
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MachineLearning-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-00fff7?style=for-the-badge"/>
-
-</p>
+## ⚙️ Tools
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+- Streamlit  
+- Linux  
 
 ---
 
-# 🏅 Certifications
+# 🏆 Professional Experience
 
-<p align="center">
+## 📌 Data Analyst & Data Science Intern  
+**Graphura India Private Limited | Mumbai**  
+*Dec 2025 – Mar 2026*
 
-<img src="https://img.shields.io/badge/Microsoft%20Data%20Analytics-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20Generative%20AI-00fff7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ITVedant%20Data%20Science-00fff7?style=for-the-badge"/>
+- Performed EDA on 500+ social media records using SQL & Python  
+- Built ML classification model achieving **88% accuracy**  
+- Increased engagement rate by **44%** using KPI optimization  
+- Developed automated Power BI dashboards reducing reporting effort by **40%**
 
-</p>
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Carbon Trading Market Trade Recommendation System
+**Tech:** SQL, Python, Power BI, Streamlit, Excel  
+
+- Processed 4,500+ carbon trading records  
+- Built XGBoost classification model with **80% accuracy**  
+- Achieved **76% trade signal prediction accuracy**  
+- Reduced manual analysis time by **64%**  
 
 ---
 
-# 📌 Featured Projects
+## 🔹 Silage Sales Price Intelligence System
+**Tech:** SQL, Python, Power BI, Streamlit, Excel  
 
-| Project | Description | Tech |
-|-------|-------------|------|
-| Liquidity Forecasting Engine | ML liquidity prediction model | Python, ML |
-| Domino’s Dashboard | Automated sales dashboards | Power BI |
-| Delivery Market Analysis | Excel operations analytics | Excel |
+- Analyzed 4,800+ agricultural transactions  
+- Developed regression model achieving **98% R² score**  
+- Built pricing intelligence dashboard  
+- Reduced business decision cycle time by **90%**
 
 ---
+
+## 🔹 NGO Program Impact Analysis Dashboard
+**Tech:** Excel, Power BI  
+
+- Consolidated 34+ raw datasets  
+- Built KPI-focused BI dashboard  
+- Reduced reporting preparation time by **64%**
+
+---
+
+# 🎓 Education
+
+🎓 Bachelor of Computer Application (BCA) – 7.14 CGPA  
+Rabindranath Tagore University (2022–2025)
+
+🎓 Master’s in Data Science & Analytics with AI  
+IT Vedant Pvt. Ltd., Thane (2025–Present)
+
+---
+
+# 📜 Certifications
+
+- Microsoft Data Analytics  
+- Microsoft Generative AI  
+- IT Vedant Data Science  
+
+---
+
+<div align="center">
+
+### 💬 “Without data, you're just another person with an opinion.”  
+
+⭐ If you find my projects valuable, feel free to star the repositories!
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00fff7&height=120&section=footer"/>
