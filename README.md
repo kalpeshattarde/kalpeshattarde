@@ -1,153 +1,259 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0FCCCE&height=280&section=header&text=Kalpesh%20Attarde&fontColor=FFFFFF&fontSize=70&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F7FCFF,50:EAF8FF,100:D9F3FF&height=260&section=header&text=Kalpesh%20Attarde&fontColor=0F172A&fontSize=62&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Python%20%26%20SQL&descSize=20&descAlignY=63"/>
 
 <div align="center">
 
-# Hi, I'm Kalpesh Attarde 👋  
+# Build Smarter Decisions with Data 📊
 
-### Data Analyst | Business Intelligence | SQL & Python Specialist  
+### Data Analyst focused on analytics, dashboards, automation, and ML-powered business solutions
 
-📍 Mumbai, India  
+<p>
+  <a href="https://linkedin.com/in/kalpeshattarde">
+    <img src="https://img.shields.io/badge/LinkedIn-DBF4FF?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=F8FDFF"/>
+  </a>
+  <a href="mailto:kalpeshattarde2468@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E6F9F7?style=for-the-badge&logo=gmail&logoColor=14B8A6&labelColor=F8FDFF"/>
+  </a>
+  <a href="https://wa.me/919529314215">
+    <img src="https://img.shields.io/badge/WhatsApp-EAFBF7?style=for-the-badge&logo=whatsapp&logoColor=10B981&labelColor=F8FDFF"/>
+  </a>
+  <a href="https://github.com/kalpeshattarde">
+    <img src="https://img.shields.io/badge/GitHub-F2F8FF?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=FFFFFF"/>
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=kalpeshattarde&label=Profile%20Views&color=0FCCCE&style=flat"/>
-
-<a href="https://linkedin.com/in/kalpeshattarde">
-<img src="https://img.shields.io/badge/LinkedIn-0FCCCE?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:kalpeshattarde2468@gmail.com">
-<img src="https://img.shields.io/badge/Email-0FCCCE?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://wa.me/919529314215">
-<img src="https://img.shields.io/badge/WhatsApp-14B8A6?style=for-the-badge&logo=whatsapp&logoColor=black"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=kalpeshattarde&label=Profile%20Views&color=38BDF8&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🎯 Professional Summary
+## ✨ About Me
 
-Data Analyst with hands-on internship experience in:
+I turn raw and messy datasets into **clear business insights, interactive dashboards, and predictive solutions**.
 
-- Exploratory Data Analysis (EDA)  
-- SQL Query Optimization  
-- KPI Performance Tracking  
-- Business Intelligence Dashboard Development  
-
-💠 Built ML classification model with **88% accuracy**  
-💠 Improved engagement rate by **44%**  
-💠 Reduced reporting effort by **40–64%**  
-💠 Accelerated business decision cycles by **90%**
-
----
-
-# 📊 GitHub Performance
+With hands-on internship experience in **EDA, SQL analysis, KPI tracking, Power BI dashboarding, and machine learning**, I focus on solving real business problems through data.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalpeshattarde&show_icons=true&theme=transparent&hide_border=true&title_color=0FCCCE&icon_color=0FCCCE&text_color=FFFFFF&bg_color=000000"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpeshattarde&theme=dark&hide_border=true&ring=0FCCCE&fire=0FCCCE&currStreakLabel=0FCCCE&background=000000&stroke=0FCCCE"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpeshattarde&bg_color=000000&color=0FCCCE&line=14B8A6&point=FFFFFF&hide_border=true"/>
+| Area | What I Do |
+|------|------------|
+| 📊 Analytics | Exploratory Data Analysis, KPI Monitoring, Trend Analysis |
+| 🗄 Data | SQL, MySQL, PostgreSQL, Data Cleaning, Transformation |
+| 📈 BI | Power BI dashboards, reporting automation, performance tracking |
+| 🤖 ML | Classification and regression models for business use cases |
 
 </div>
 
 ---
 
-# 💼 Experience
+## 📌 Snapshot Metrics
 
-## Data Analyst & Data Science Intern  
-**Graphura India Private Limited | Dec 2025 – Present**
+<div align="center">
 
-- Performed EDA on 500+ multi-platform records using SQL & Python  
-- Engineered ML classification model achieving **88% accuracy**  
-- Increased engagement by **44%** via KPI optimization  
-- Built automated Power BI dashboards reducing reporting effort by **40%**
+| Metric | Result |
+|--------|--------|
+| ML Classification Accuracy | **88%** |
+| Engagement Growth Improved | **44%** |
+| Reporting Effort Reduced | **40–64%** |
+| Decision Cycle Accelerated | **90%** |
 
----
-
-# 🚀 Featured Projects
-
-## 🔹 Carbon Trading Market Trade Recommendation System  
-**Tech:** Python, SQL, Power BI, Streamlit  
-
-- Processed 4,500+ carbon trading records  
-- Built XGBoost model achieving **80% accuracy**  
-- Achieved **76% trade signal prediction accuracy**  
-- Reduced manual analysis time by **64%**
+</div>
 
 ---
 
-## 🔹 Silage Sales Price Intelligence System  
-**Tech:** Python, SQL, Power BI, Streamlit  
+## 📊 GitHub Insights
 
-- Analyzed 4,800+ agricultural transactions  
-- Developed regression model with **98% R² score**  
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalpeshattarde&show_icons=true&theme=default&hide_border=true&title_color=0EA5E9&icon_color=06B6D4&text_color=334155&bg_color=F8FDFF"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpeshattarde&theme=default&hide_border=true&ring=0EA5E9&fire=06B6D4&currStreakLabel=0EA5E9&background=F8FDFF&stroke=D6EEF9&sideNums=334155&currStreakNum=0F172A&dates=64748B&sideLabels=475569"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpeshattarde&bg_color=F8FDFF&color=0EA5E9&line=14B8A6&point=38BDF8&hide_border=true"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Data Analyst & Data Science Intern  
+**Graphura India Private Limited**  
+**Dec 2025 – Present | Mumbai, India**
+
+- Performed exploratory data analysis on **500+ multi-platform records** using **Python, SQL, Pandas, and NumPy**
+- Engineered and evaluated a **machine learning classification model with 88% accuracy**
+- Improved engagement rate by **44%** through KPI-focused analysis and optimization
+- Built **automated Power BI dashboards** for real-time monitoring and reduced manual reporting effort by **40%**
+- Supported business decision-making with forecasting, trend analysis, and performance tracking
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Carbon Trading Market Trade Recommendation System
+**Tech Stack:** Python, SQL, Power BI, Streamlit, XGBoost
+
+- Processed **4,500+ carbon trading records**
+- Built an **XGBoost model with 80% accuracy**
+- Achieved **76% trade signal prediction accuracy**
+- Reduced manual analysis effort by **64%**
+- Created an end-to-end workflow from analysis to dashboard to app
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Silage Sales Price Intelligence System
+**Tech Stack:** Python, SQL, Power BI, Streamlit
+
+- Analyzed **4,800+ agricultural transactions**
+- Developed a regression model with **98% R² score**
+- Engineered features for crop type, seasonality, moisture, and order volume
 - Reduced pricing decision cycle by **90%**
+- Built a pricing intelligence workflow for faster business action
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔹 NGO Program Impact Data Dashboard  
-**Tech:** Excel, Power BI, Python  
+### 🔹 NGO Program Impact Data Dashboard
+**Tech Stack:** Excel, Power BI, Python
 
-- Consolidated 34+ raw datasets  
-- Developed KPI performance dashboards  
-- Reduced reporting preparation time by **64%**
+- Consolidated **34+ raw files** into a structured dataset
+- Built KPI dashboards for beneficiary reach, funding allocation, and performance tracking
+- Improved reporting consistency and reduced preparation time by **64%**
+- Enabled clearer operational decision-making through dashboard automation
 
 ---
 
-# 🎥 Live Project Demonstrations
+## 🧩 Project Showcase
 
-## Carbon Trading ML Application
+<div align="center">
+
+| Project | Focus | Outcome |
+|--------|-------|---------|
+| Carbon Trading System | Classification + Recommendation | Faster trade decisions |
+| Silage Pricing Engine | Regression + BI | Smarter price optimization |
+| NGO Dashboard | Reporting + KPIs | Automated program monitoring |
+
+</div>
+
+---
+
+## 🎥 Live Demonstrations
+
+### Carbon Trading ML Application
 <p align="center">
-<img src="https://your-demo-gif-link.gif" width="85%"/>
+  <img src="https://your-demo-gif-link.gif" width="88%"/>
 </p>
 
-## Silage Pricing Intelligence Engine
+### Silage Pricing Intelligence Engine
 <p align="center">
-<img src="https://your-demo-gif-link.gif" width="85%"/>
+  <img src="https://your-demo-gif-link.gif" width="88%"/>
+</p>
+
+> Replace the GIF links above with your actual demo recordings or project previews.
+
+---
+
+## 🛠 Tech Stack
+
+### Analytics & BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-EAF8FF?style=for-the-badge&logo=powerbi&logoColor=F59E0B&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Tableau-F2FAFF?style=for-the-badge&logo=tableau&logoColor=2563EB&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Excel-ECFDF5?style=for-the-badge&logo=microsoftexcel&logoColor=16A34A&labelColor=FFFFFF"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL-EFF8FF?style=for-the-badge&logo=database&logoColor=0284C7&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MySQL-F0F9FF?style=for-the-badge&logo=mysql&logoColor=0EA5E9&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-F5FAFF?style=for-the-badge&logo=postgresql&logoColor=2563EB&labelColor=FFFFFF"/>
+</p>
+
+### Python & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-F8FDFF?style=for-the-badge&logo=python&logoColor=0EA5E9&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Pandas-EEF9FF?style=for-the-badge&logo=pandas&logoColor=0F172A&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/NumPy-F3FBFF?style=for-the-badge&logo=numpy&logoColor=0891B2&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-FEFAF5?style=for-the-badge&logo=scikitlearn&logoColor=F97316&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/XGBoost-F0FDFA?style=for-the-badge&logo=databricks&logoColor=14B8A6&labelColor=FFFFFF"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-FEF7F2?style=for-the-badge&logo=git&logoColor=F97316&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=111827&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jupyter-FEF6F2?style=for-the-badge&logo=jupyter&logoColor=EA580C&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VS%20Code-F0F9FF?style=for-the-badge&logo=visualstudiocode&logoColor=2563EB&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Streamlit-FFF5F7?style=for-the-badge&logo=streamlit&logoColor=E11D48&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Linux-F8FAFC?style=for-the-badge&logo=linux&logoColor=0F172A&labelColor=FFFFFF"/>
 </p>
 
 ---
 
-# 🛠 Technical Stack
+## 🎓 Education
 
-### 💠 Data & BI
-Power BI • Tableau • Microsoft Excel • KPI Analytics  
+### Bachelor of Computer Application (BCA) — 7.14 CGPA  
+**Rabindranath Tagore University**  
+**2022 – 2025**
 
-### 💠 Databases
-SQL • MySQL • PostgreSQL  
-
-### 💠 Python & ML
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • XGBoost  
-
-### 💠 Tools
-Git • GitHub • Jupyter Notebook • VS Code • Streamlit • Linux  
+### Master’s in Data Science & Analytics with AI  
+**IT Vedant Pvt. Ltd., Thane**  
+**2025 – Present**
 
 ---
 
-# 🎓 Education
+## 🏅 Core Strengths
 
-Bachelor of Computer Application (BCA) – 7.14 CGPA  
-Rabindranath Tagore University (2022–2025)
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- Dashboard Development
+- KPI & Performance Tracking
+- Statistical Analysis
+- SQL Querying
+- Business Insight Generation
+- Predictive Modeling
 
-Master’s in Data Science & Analytics with AI  
-IT Vedant Pvt. Ltd., Thane (2025–Present)
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+
+### Open to opportunities in  
+**Data Analyst • BI Analyst • Junior Data Scientist**
+
+<p>
+  <a href="mailto:kalpeshattarde2468@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kalpeshattarde">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💠 Turning Data into Scalable Business Decisions  
+## Turning Data into Clear, Scalable Business Decisions
 
-⭐ If you find my projects valuable, feel free to star the repositories.
+⭐ If you find my work valuable, consider starring my repositories.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0FCCCE&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0B2942,100:082F49&height=120&section=footer"/>
