@@ -75,24 +75,6 @@ With hands-on internship experience in **EDA, SQL analysis, KPI tracking, Power 
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalpeshattarde&show_icons=true&theme=default&hide_border=true&title_color=0EA5E9&icon_color=06B6D4&text_color=334155&bg_color=F8FDFF" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpeshattarde&theme=default&hide_border=true&ring=0EA5E9&fire=06B6D4&currStreakLabel=0EA5E9&background=F8FDFF&stroke=D6EEF9&sideNums=334155&currStreakNum=0F172A&dates=64748B&sideLabels=475569" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpeshattarde&bg_color=F8FDFF&color=0EA5E9&line=14B8A6&point=38BDF8&hide_border=true" />
-
-</div>
-
----
-
 ## 💼 Experience
 
 ### Data Analyst & Data Science Intern  
