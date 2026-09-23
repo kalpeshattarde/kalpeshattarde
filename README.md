@@ -6,14 +6,22 @@
 
 I help businesses reduce repetitive work, connect their tools, and build reliable automation systems using AI, APIs, cloud infrastructure, and custom software.
 
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalpeshattarde.github.io/)
+[![Business Portfolio](https://img.shields.io/badge/Business%20Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akceleratehq.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpeshattarde/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akceleratehq.com/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kalpeshxattarde)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalpeshxattarde/)
 
 </div>
 
 ---
+
+## Portfolio Links
+
+| Portfolio | Purpose | Link |
+|---|---|---|
+| **Personal Portfolio** | My professional profile, technical experience, projects, and career journey | [kalpeshattarde.github.io](https://kalpeshattarde.github.io/) |
+| **Business Portfolio — AKcelerateHQ** | Business automation, AI systems, custom SaaS, cloud setup, DevOps, and DevSecOps services | [akceleratehq.com](https://akceleratehq.com/) |
 
 ## About Me
 
@@ -92,8 +100,9 @@ Automation concepts and implementations for client operations, lead management, 
 
 If your business spends too much time on manual data entry, follow-ups, reporting, customer communication, or repetitive coordination, let's discuss a practical automation solution.
 
+- **Personal portfolio:** [Visit Kalpesh's Portfolio](https://kalpeshattarde.github.io/)
+- **Business portfolio:** [AKcelerateHQ](https://akceleratehq.com/)
 - **Business enquiries:** [Connect on LinkedIn](https://www.linkedin.com/in/kalpeshattarde/)
-- **Portfolio:** [AKcelerateHQ](https://akceleratehq.com/)
 - **Automation examples:** [GitHub automation portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
 ---
