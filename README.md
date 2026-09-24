@@ -30,7 +30,7 @@ I help businesses reduce repetitive work, connect their tools, and build reliabl
 
 [![YouTube](https://img.shields.io/badge/YouTube-Kalpesh%20Attarde-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kalpeshxattarde)
 [![Instagram](https://img.shields.io/badge/Instagram-@kalpeshxattarde-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalpeshxattarde/)
-[![X](https://img.shields.io/badge/X-@kalpeshxattarde-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kalpeshxattarde)
+[![X](https://img.shields.io/badge/X-@kalpeshxattarde-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kalpeshxattarde/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalpesh%20Attarde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpeshattarde/)
 
 </div>
@@ -53,22 +53,41 @@ Through **AKcelerateHQ**, I design and build practical automation and software s
 
 ## Selected Projects
 
+### Business Operations Automation Systems
+Automation concepts and implementations for client operations, lead management, healthcare practice operations, restaurant guest engagement, property support, and wellness businesses.
+
+**Focus:** reducing manual coordination, improving response speed, centralizing information, and creating repeatable operating processes.
+
+**GitHub:** [Explore Automation Projects](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
+
 ### AI Lead Capture & Qualification Automation
 Captures enquiries, evaluates lead quality, routes prospects, and supports follow-up workflows.
 
 **Tools:** n8n, Google Sheets, Gmail, Google Calendar, OpenRouter, APIs, and optional WhatsApp integration.
+
+**GitHub:** [View Automation Portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
 ### AI Candidate Screening & ATS Workflow
 Processes candidate information, evaluates resume fit, supports interview analysis, and routes candidates for human review.
 
 **Tools:** n8n, Google Drive, Google Sheets, Gmail, Google Calendar, OpenAI, and OpenRouter.
 
-### Business Operations Automation Systems
-Automation concepts and implementations for client operations, lead management, healthcare practice operations, restaurant guest engagement, property support, and wellness businesses.
+**GitHub:** [View Automation Portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
-**Focus:** reducing manual coordination, improving response speed, centralizing information, and creating repeatable operating processes.
+### ReplyForgeAI — AI-Powered Reply Automation
+An AI-focused project for building and showcasing automated response workflows and product concepts.
 
-[Explore my n8n automation portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
+**GitHub:** [ReplyForgeAI Portfolio](https://github.com/kalpeshattarde/replyforgeai-portfolio)
+
+### SaaS Prototypes & Internal Tools
+A collection of software and SaaS prototypes exploring practical business tools, workflow systems, and product concepts.
+
+**GitHub:** [SaaS Prototypes](https://github.com/kalpeshattarde/SaaS-Prototypes)
+
+### Data Science & Analytics Projects
+Data-focused projects covering analysis, visualization, and practical data workflows.
+
+**GitHub:** [Data Science Projects](https://github.com/kalpeshattarde/Data-Science-Projects) · [Data Analysis Project](https://github.com/kalpeshattarde/Data-Analysis-Project) · [Tableau Projects](https://github.com/kalpeshattarde/Tableau-Projects)
 
 ## Technology Stack
 
