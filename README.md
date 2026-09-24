@@ -47,7 +47,7 @@ Through **AKcelerateHQ**, I design and build practical automation and software s
 - DevOps and DevSecOps support
 - Dashboards, reporting pipelines, and business data workflows
 
-## Selected Projects
+## Work Proof
 
 - **Business Operations Automation Systems**
   - Automation concepts and implementations for client operations, lead management, healthcare practice operations, restaurant guest engagement, property support, and wellness businesses.
