@@ -102,90 +102,19 @@ Automation concepts and implementations for client operations, lead management, 
 
 ### AI Agent & Automation Ecosystem
 
-> A structured inventory of tools, frameworks, protocols, concepts, and deployment technologies across 9 categories.
+> A categorized overview of the frameworks, agents, protocols, infrastructure, and LLM platforms I work with or explore.
 
-#### Agent Frameworks
-
-- LangChain
-- LangGraph
-- OpenAI Agents SDK
-- Google ADK
-- AWS Strands
-- CrewAI
-- LlamaIndex
-- n8n
-- LangFlow
-
-#### Claude & Coding Agents
-
-- Claude Code
-- OpenClaw
-- NemoClaw
-- Hermes Agent
-- Codex CLI
-- opencode
-- Antigravity IDE
-
-#### Protocols & Standards
-
-- MCP
-- A2A
-
-#### Memory & Knowledge
-
-- mem0
-- LangGraph Checkpointing
-- LlamaIndex Memory
-- GraphRAG
-
-#### AgentOps & Observability
-
-- AgentOps
-- LangSmith
-- Opik
-- Langfuse
-- Logfire
-
-#### Core Concepts
-
-- RAG
-- Agentic RAG
-- Context Engineering
-- Prompt Engineering
-- Pydantic
-- Vector Databases
-- Agent Evaluation
-- Agent Security
-- Guardrails
-- FAISS
-- Tavily
-
-#### Deployment & CI/CD
-
-- Docker
-- GitHub Actions
-- FastAPI
-- BentoML
-- Nginx
-- Streamlit
-- Gradio
-
-#### Cloud Platforms
-
-- AWS
-- GCP
-- Azure
-- VPS
-
-#### LLM Providers
-
-- OpenAI
-- Anthropic
-- Gemini
-- Groq
-- Ollama
-- Amazon Bedrock
-- Azure OpenAI
+| Category | Technologies |
+|---|---|
+| **Agent Frameworks** | LangChain · LangGraph · OpenAI Agents SDK · Google ADK · AWS Strands · CrewAI · LlamaIndex · n8n · LangFlow |
+| **Claude & Coding Agents** | Claude Code · OpenClaw · NemoClaw · Hermes Agent · Codex CLI · opencode · Antigravity IDE |
+| **Protocols & Standards** | MCP · A2A |
+| **Memory & Knowledge** | mem0 · LangGraph Checkpointing · LlamaIndex Memory · GraphRAG |
+| **AgentOps & Observability** | AgentOps · LangSmith · Opik · Langfuse · Logfire |
+| **Core Concepts** | RAG · Agentic RAG · Context Engineering · Prompt Engineering · Pydantic · Vector Databases · Agent Evaluation · Agent Security · Guardrails · FAISS · Tavily |
+| **Deployment & CI/CD** | Docker · GitHub Actions · FastAPI · BentoML · Nginx · Streamlit · Gradio |
+| **Cloud Platforms** | AWS · GCP · Azure · VPS |
+| **LLM Providers** | OpenAI · Anthropic · Gemini · Groq · Ollama · Amazon Bedrock · Azure OpenAI |
 
 ## How I Approach Automation
 
