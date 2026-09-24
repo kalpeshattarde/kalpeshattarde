@@ -8,6 +8,7 @@ I help businesses reduce repetitive work, connect their tools, and build reliabl
 
 [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalpeshattarde.github.io/)
 [![Business Portfolio](https://img.shields.io/badge/Business%20Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akceleratehq.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kalpeshxattarde)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpeshattarde/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kalpeshxattarde)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalpeshxattarde/)
@@ -22,6 +23,17 @@ I help businesses reduce repetitive work, connect their tools, and build reliabl
 |---|---|---|
 | **Personal Portfolio** | My professional profile, technical experience, projects, and career journey | [kalpeshattarde.github.io](https://kalpeshattarde.github.io/) |
 | **Business Portfolio — AKcelerateHQ** | Business automation, AI systems, custom SaaS, cloud setup, DevOps, and DevSecOps services | [akceleratehq.com](https://akceleratehq.com/) |
+
+## Personal Social Links
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-Kalpesh%20Attarde-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kalpeshxattarde)
+[![Instagram](https://img.shields.io/badge/Instagram-@kalpeshxattarde-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalpeshxattarde/)
+[![X](https://img.shields.io/badge/X-@kalpeshxattarde-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kalpeshxattarde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalpesh%20Attarde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalpeshattarde/)
+
+</div>
 
 ## About Me
 
@@ -189,7 +201,10 @@ If your business spends too much time on manual data entry, follow-ups, reportin
 
 - **Personal portfolio:** [Visit Kalpesh's Portfolio](https://kalpeshattarde.github.io/)
 - **Business portfolio:** [AKcelerateHQ](https://akceleratehq.com/)
-- **Business enquiries:** [Connect on LinkedIn](https://www.linkedin.com/in/kalpeshattarde/)
+- **YouTube:** [Kalpesh Attarde](https://www.youtube.com/@kalpeshxattarde)
+- **Instagram:** [@kalpeshxattarde](https://www.instagram.com/kalpeshxattarde/)
+- **X:** [@kalpeshxattarde](https://x.com/kalpeshxattarde)
+- **LinkedIn:** [Kalpesh Attarde](https://www.linkedin.com/in/kalpeshattarde/)
 - **Automation examples:** [GitHub automation portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
 ---
