@@ -49,41 +49,32 @@ Through **AKcelerateHQ**, I design and build practical automation and software s
 
 ## Selected Projects
 
-### Business Operations Automation Systems
-Automation concepts and implementations for client operations, lead management, healthcare practice operations, restaurant guest engagement, property support, and wellness businesses.
+- **Business Operations Automation Systems**
+  - Automation concepts and implementations for client operations, lead management, healthcare practice operations, restaurant guest engagement, property support, and wellness businesses.
+  - **Focus:** reducing manual coordination, improving response speed, centralizing information, and creating repeatable operating processes.
+  - **GitHub:** [Explore Automation Projects](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
-**Focus:** reducing manual coordination, improving response speed, centralizing information, and creating repeatable operating processes.
+- **AI Lead Capture & Qualification Automation**
+  - Captures enquiries, evaluates lead quality, routes prospects, and supports follow-up workflows.
+  - **Tools:** n8n, Google Sheets, Gmail, Google Calendar, OpenRouter, APIs, and optional WhatsApp integration.
+  - **GitHub:** [View Automation Portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
-**GitHub:** [Explore Automation Projects](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
+- **AI Candidate Screening & ATS Workflow**
+  - Processes candidate information, evaluates resume fit, supports interview analysis, and routes candidates for human review.
+  - **Tools:** n8n, Google Drive, Google Sheets, Gmail, Google Calendar, OpenAI, and OpenRouter.
+  - **GitHub:** [View Automation Portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
-### AI Lead Capture & Qualification Automation
-Captures enquiries, evaluates lead quality, routes prospects, and supports follow-up workflows.
+- **ReplyForgeAI — AI-Powered Reply Automation**
+  - An AI-focused project for building and showcasing automated response workflows and product concepts.
+  - **GitHub:** [ReplyForgeAI Portfolio](https://github.com/kalpeshattarde/replyforgeai-portfolio)
 
-**Tools:** n8n, Google Sheets, Gmail, Google Calendar, OpenRouter, APIs, and optional WhatsApp integration.
+- **SaaS Prototypes & Internal Tools**
+  - A collection of software and SaaS prototypes exploring practical business tools, workflow systems, and product concepts.
+  - **GitHub:** [SaaS Prototypes](https://github.com/kalpeshattarde/SaaS-Prototypes)
 
-**GitHub:** [View Automation Portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
-
-### AI Candidate Screening & ATS Workflow
-Processes candidate information, evaluates resume fit, supports interview analysis, and routes candidates for human review.
-
-**Tools:** n8n, Google Drive, Google Sheets, Gmail, Google Calendar, OpenAI, and OpenRouter.
-
-**GitHub:** [View Automation Portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
-
-### ReplyForgeAI — AI-Powered Reply Automation
-An AI-focused project for building and showcasing automated response workflows and product concepts.
-
-**GitHub:** [ReplyForgeAI Portfolio](https://github.com/kalpeshattarde/replyforgeai-portfolio)
-
-### SaaS Prototypes & Internal Tools
-A collection of software and SaaS prototypes exploring practical business tools, workflow systems, and product concepts.
-
-**GitHub:** [SaaS Prototypes](https://github.com/kalpeshattarde/SaaS-Prototypes)
-
-### Data Science & Analytics Projects
-Data-focused projects covering analysis, visualization, and practical data workflows.
-
-**GitHub:** [Data Science Projects](https://github.com/kalpeshattarde/Data-Science-Projects) · [Data Analysis Project](https://github.com/kalpeshattarde/Data-Analysis-Project) · [Tableau Projects](https://github.com/kalpeshattarde/Tableau-Projects)
+- **Data Science & Analytics Projects**
+  - Data-focused projects covering analysis, visualization, and practical data workflows.
+  - **GitHub:** [Data Science Projects](https://github.com/kalpeshattarde/Data-Science-Projects) · [Data Analysis Project](https://github.com/kalpeshattarde/Data-Analysis-Project) · [Tableau Projects](https://github.com/kalpeshattarde/Tableau-Projects)
 
 ## Technology Stack
 
