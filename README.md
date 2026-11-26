@@ -7,7 +7,7 @@
 I help businesses reduce repetitive work, connect their tools, and build reliable automation systems using AI, APIs, cloud infrastructure, and custom software.
 
 [![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalpeshattarde.github.io/)
-[![Business Portfolio](https://img.shields.io/badge/Business%20Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akceleratehq.com/)
+[![Business Portfolio](https://img.shields.io/badge/Business%20Portfolio-AKcelerateHQ-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akceleratehq.com/)
 
 </div>
 
@@ -18,7 +18,7 @@ I help businesses reduce repetitive work, connect their tools, and build reliabl
 | Portfolio | Purpose | Link |
 |---|---|---|
 | **Personal Portfolio** | My professional profile, technical experience, projects, and career journey | [kalpeshattarde.github.io](https://kalpeshattarde.github.io/) |
-| **Business Portfolio — AKcelerateHQ** | Business automation, AI systems, custom SaaS, cloud setup, DevOps, and DevSecOps services | [akceleratehq.com](https://akceleratehq.com/) |
+| **Business Portfolio — AKcelerateHQ** | Business automation, AI systems, custom SaaS, cloud setup, DevOps, and DevSecOps services | [akceleratehq.com](https://www.akceleratehq.com/) |
 
 ## Connect With Me
 
@@ -135,7 +135,7 @@ Through **AKcelerateHQ**, I design and build practical automation and software s
 If your business spends too much time on manual data entry, follow-ups, reporting, customer communication, or repetitive coordination, let's discuss a practical automation solution.
 
 - **Personal portfolio:** [Visit Kalpesh's Portfolio](https://kalpeshattarde.github.io/)
-- **Business portfolio:** [AKcelerateHQ](https://akceleratehq.com/)
+- **Business portfolio:** [AKcelerateHQ](https://www.akceleratehq.com/)
 - **Automation examples:** [GitHub automation portfolio](https://github.com/kalpeshattarde/n8n-ai-automations-portfolio)
 
 ---
